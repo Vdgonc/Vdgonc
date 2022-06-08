@@ -9,8 +9,6 @@
 #### Just telling you a little bit of me.
 
 * I'm 21y old;
-* ⚙️ Working with DevOps things;
 * 🏁 CTF player;
-* I have a blog;
 * 💻 **Hacking for a better world**;
 * 📚 Learning new things everyday.
