@@ -8,7 +8,6 @@
 
 #### Just telling you a little bit of me.
 
-* I'm 21y old;
-* 🏁 CTF player;
+* I'm 22y old;
 * 💻 **Hacking for a better world**;
 * 📚 Learning new things everyday.
